@@ -1,6 +1,6 @@
 ## Qdrant Filter Runtime Generator
 
-This script allows you to dynamically generate Qdrant filters at runtime for querying data using LLMS (Legal Language Models) with agents or tools. With this script, you can easily create complex filters based on specific criteria and apply them to your data queries.
+This script allows you to dynamically generate Qdrant filters at runtime for querying data using LLMS with agents or tools. With this script, you can easily create complex filters based on specific criteria and apply them to your data queries.
 
 
 ## Features
